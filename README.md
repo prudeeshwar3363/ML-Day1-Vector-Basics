@@ -49,8 +49,9 @@ Understanding dot product helps in understanding:
 
 ## 📂 Project Structure
 
-ML-Day1-Vector-Basics/
+ML-practice/
 │
-├── vector_operations.py
-├── manual_dot.py
-└── README.md
+├──Day1-Vector-Basics/
+   ├── vector_operations.py
+   ├── manual_dot.py
+   └── README.md
