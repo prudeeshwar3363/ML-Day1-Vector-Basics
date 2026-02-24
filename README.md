@@ -44,7 +44,7 @@ By Day 60, I will:
 
 | Day | Topic | Status | Confidence | Folder |
 |-----|-------|--------|------------|--------|
-| 01 | Vectors & NumPy | ✅ | 10/10 | day1 |
+| 01 | Vectors & NumPy | ✅ | 10/10 | Day1-vector-basics |
 | 02 | Matrices | ⬜ | - | - |
 | 03 | Statistics | ⬜ | - | - |
 | 04 | Probability | ⬜ | - | - |
