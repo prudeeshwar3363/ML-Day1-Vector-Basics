@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-1%25-red?style=for-the-badge)
 
 ---
 
@@ -44,7 +44,7 @@ By Day 60, I will:
 
 | Day | Topic | Status | Confidence | Folder |
 |-----|-------|--------|------------|--------|
-| 01 | Vectors & NumPy | ⬜ | - | - |
+| 01 | Vectors & NumPy | ✅ | 10/10 | day1 |
 | 02 | Matrices | ⬜ | - | - |
 | 03 | Statistics | ⬜ | - | - |
 | 04 | Probability | ⬜ | - | - |
@@ -161,7 +161,9 @@ Concept Revision, Mock Interviews, DSA + SQL
 # 📝 Daily Reflection Log
 
 ### Day 01
->  
+> Learned how vectors represent feature space in ML models. 
+> Implemented dot product manually and compared with NumPy.
+> Gained clarity on how linear models compute predictions internally.
 
 ### Day 02
 >  
@@ -172,10 +174,10 @@ Concept Revision, Mock Interviews, DSA + SQL
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 0 / 60  
-**Consistency Streak:** 0 Days  
+**Days Completed:** 1 / 60  
+**Consistency Streak:** 1 Days  
 **Projects Completed:** 0 / 4  
-**Current Confidence Level:** 0 / 10  
+**Current Confidence Level:** 9 / 10  
 
 ---
 
