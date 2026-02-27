@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi)
-![Progress](https://img.shields.io/badge/Progress-5%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-7%25-red?style=for-the-badge)
 
 ---
 
@@ -47,7 +47,7 @@ By Day 60, I will:
 | 01 | Vectors & NumPy | ✅ | 10/10 | Day1-vector-basics |
 | 02 | Matrices | ✅ | 10/10 | Day2-Matrices |
 | 03 | Statistics | ✅ | 10/10 | Day-03-Statistics |
-| 04 | Probability | ⬜ | - | - |
+| 04 | Probability | ✅ | 10/10 | Day-04-Probability |
 | 05 | Gradient Descent | ⬜ | - | - |
 | 06 | Linear Regression (Scratch) | ⬜ | - | - |
 | 07 | Revision + GitHub | ⬜ | - | - |
@@ -177,14 +177,19 @@ Concept Revision, Mock Interviews, DSA + SQL
 > Verified mathematically that scaled data has mean ≈ 0 and std ≈ 1.
 > Gained clarity on why feature scaling is essential before training models.
 
+### Day 04
+> Learned probability fundamentals and conditional probability.
+> Implemented Bayes theorem and understood how rare events affect predictions.
+> Connected probability concepts to Naive Bayes classifier in ML.
+
 (Write 3–5 lines daily about what you understood.)
 
 ---
 
 # 📊 Progress Dashboard
 
-**Days Completed:** 3 / 60  
-**Consistency Streak:** 3 Days  
+**Days Completed:** 4 / 60  
+**Consistency Streak:** 4 Days  
 **Projects Completed:** 0 / 4  
 **Current Confidence Level:** 10 / 10  
 
